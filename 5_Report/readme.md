@@ -129,7 +129,7 @@ This way a wireless system is designed which is autonomous and can monitor as we
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
-| `1_Behavior Diagrams`   | high level requriment, low level requriment|
+| `1_Behavior Diagrams`   | Block diagram, high level requriment, low level requriment|
 | `2_Structure Diagrams`         | high level requriment,low level requriment|
 
 

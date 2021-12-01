@@ -18,3 +18,23 @@ This project introduces a temperature and humidity monitoring/sending system, wh
 | `5_Report`| Documents with report|
 | `6_Images and videos`|All project related images and videos|
 | `7_Other`| other related files|
+
+# Things used in this project
+# Hardware components
+* Microchip Technology atmega 328p-pu
+* SI7020-A20 I²C Humidity and Temperature Sensor ±4%RH ±.4°C	
+* ControlEverything.com SI7020-A20 I²C Humidity and Temperature Sensor ±4%RH ±.4°C
+*  433 MHz transmitter / Receiver kit
+* AMS1117-ADJ voltage regulator
+* Capacitor 100 µF	
+* Resistor 1k ohm
+* Resistor 10k ohm
+* LED (generic)
+* Resistor 221 ohm	
+* 2AA Battery Holder for RTC	
+* UDOO 2AA Battery Holder for RTC
+
+ # Software apps and online services
+* Arduino IDE	
+
+

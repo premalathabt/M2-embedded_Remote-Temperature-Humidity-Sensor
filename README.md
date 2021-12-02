@@ -32,9 +32,11 @@ This project introduces a temperature and humidity monitoring/sending system, wh
 * LED (generic)
 * Resistor 221 ohm	
 * 2AA Battery Holder for RTC	
-* UDOO 2AA Battery Holder for RTC
 
- # Software apps and online services
-* Arduino IDE	
 
+# code badge
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec4eb053f1b946ae955768f763f5b4b5)](https://www.codacy.com/gh/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor&amp;utm_campaign=Badge_Grade)
+
+ 
 

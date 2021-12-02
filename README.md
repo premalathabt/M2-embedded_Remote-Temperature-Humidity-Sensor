@@ -41,3 +41,7 @@ This project introduces a temperature and humidity monitoring/sending system, wh
 
 # cppchech action
 [![cppcheck-action-test](https://github.com/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/actions/workflows/c-cpp.yml)
+
+# build test 
+
+[![build-action- test](https://github.com/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/actions/workflows/c-cpp.yml)

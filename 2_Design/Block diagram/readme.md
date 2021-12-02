@@ -1,2 +1,4 @@
 # BLOCK DIAGRAM
-![PD1](https://user-images.githubusercontent.com/85119462/144306819-e7986857-0329-46c3-8730-6758506091fe.jpeg)
+
+![pj1](https://user-images.githubusercontent.com/85119462/144163907-639f93b5-2559-4972-a657-bf0c0d424fe1.png)
+

@@ -38,3 +38,6 @@ This project introduces a temperature and humidity monitoring/sending system, wh
 
 # code grade
 ![Code grade](https://api.codiga.io/project/30293/status/svg)
+
+# cppchech action
+[![cppcheck-action-test](https://github.com/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/actions/workflows/c-cpp.yml)

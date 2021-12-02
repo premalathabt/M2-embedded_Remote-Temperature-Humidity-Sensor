@@ -34,7 +34,7 @@ This project introduces a temperature and humidity monitoring/sending system, wh
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec4eb053f1b946ae955768f763f5b4b5)](https://www.codacy.com/gh/premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=premalathabt/M2-embedded_Remote-Temperature-Humidity-Sensor&amp;utm_campaign=Badge_Grade)
 
 # code quality score
-[![Code quality score]( https://api.codiga.io/project/30293/score/svg)
+![Code quality score]( https://api.codiga.io/project/30293/score/svg)
 
 # code grade
-[![Code grade](https://api.codiga.io/project/30293/status/svg)
+![Code grade](https://api.codiga.io/project/30293/status/svg)

@@ -4,14 +4,15 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**"
+                "C:\\WinAVR-20100110\\avr\\include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "/usr/bin/gcc",
-            "cStandard": "c17",
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "gnu17",
             "cppStandard": "c++17",
             "intelliSenseMode": "linux-gcc-x64"
         }
